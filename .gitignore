@@ -1,0 +1,5 @@
+# Не видеть пупку build
+build
+
+# Не видеть папку .vscode
+.vscode
