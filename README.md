@@ -10,3 +10,4 @@ sudo cmake ..
 sudo make
 sudo cp libgtest* /usr/lib/
 ```
+Если останутся ещё вопросы, можно посмотреть следующую ссылку [**ссылку**](https://gist.github.com/Cartexius/4c437c084d6e388288201aadf9c8cdd5)
